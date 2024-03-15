@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitiz_k20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitiz_k20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kshitij kumrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij kumrawat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitij-kumrawat20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij kumrawat" height="30" width="40" /></a>
 <a href="https://kaggle.com/kshitijkumrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kshitijkumrawat" height="30" width="40" /></a>
 <a href="https://instagram.com/kshitiz_k20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitiz_k20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codebreaker_kshitij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codebreaker_kshitij" height="30" width="40" /></a>
