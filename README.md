@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data science, AI**
 
-- 💬 Ask me about **flask, machine learning, statistics,python, data science**
+- 💬 Ask me about ** machine learning, statistics,python, data science**
 
 - 📫 How to reach me **kshitijk146@gmail.com**
 
