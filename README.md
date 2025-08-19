@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij kumrawat</h1>
-<h3 align="center">A passionate data science trainee from India</h3>
+<h3 align="center">Ai engineer</h3>
 <img align="right" alt="stats" width="400" src ="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijkumrawat20&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijkumrawat20" /> </p>
 
