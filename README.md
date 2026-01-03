@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Kumrawat</h1>
 <h3 align="center">AI/ML Engineer | Specializing in LLMs & Agentic AI</h3>
-
-<p align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</p>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijkumrawat20&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijkumrawat20" /> </p>
 
@@ -15,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kshitij-kumrawat20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-kumrawat20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitij-kumrawat20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij kumrawat" height="30" width="40" /></a>
 <a href="https://github.com/kshitijkumrawat20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kshitijkumrawat20" height="30" width="40" /></a>
 <a href="https://twitter.com/kshitiz_k20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitiz_k20" height="30" width="40" /></a>
 <a href="https://instagram.com/kshitiz_k20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitiz_k20" height="30" width="40" /></a>
@@ -23,6 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<!-- Languages -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -36,14 +34,8 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijkumrawat20&show_icons=true&locale=en&layout=compact" alt="kshitijkumrawat20" /></p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijkumrawat20&show_icons=true&locale=en" alt="kshitijkumrawat20" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumrawat20&theme=dark&hide_border=true&background=0D1117" alt="kshitijkumrawat20" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijkumrawat20&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="kshitijkumrawat20" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumrawat20&" alt="kshitijkumrawat20" /></p>
