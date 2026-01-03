@@ -42,24 +42,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijkumrawat20&theme=dark&hide_border=true&background=0D1117)](https://github.com/kshitijkumrawat20)
 
-</div>
-
-<div align="center">
-  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitijkumrawat20&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumrawat20&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-
-</div>
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumrawat20&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)](https://github.com/kshitijkumrawat20)
-
-</div>
-
-<div align="center">
-  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitijkumrawat20&theme=github_dark)
 
 </div>
