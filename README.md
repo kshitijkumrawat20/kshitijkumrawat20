@@ -42,16 +42,12 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijkumrawat20&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kshitijkumrawat20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kshitijkumrawat20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kshitijkumrawat20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kshitijkumrawat20&theme=dark&hide_border=false" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkumrawat20&theme=dark&hide_border=false&layout=compact" />
-</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
